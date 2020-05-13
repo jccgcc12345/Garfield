@@ -1,0 +1,301 @@
+Summary|概览
+Hospital|医院
+Id|序号
+Name|名称
+Address|地址
+Telephone|电话
+Version|版本
+Expense Type|费用类型
+Id|序号
+Name|名称
+Helper Chars|辅助识字课
+Status|状态
+Hospital|医院
+Description|描述
+Update Time|更新时间
+Version|版本
+Period|期
+Id|序号
+Name|名称
+Code|代码
+Hospital|医院
+Version|版本
+Expense Item|费用项目
+Id|序号
+Name|名称
+Price|价格
+Expense Type|费用类型
+Hospital|医院
+Update Time|更新时间
+Version|版本
+Doctor|医生
+Id|序号
+Name|名称
+Shot Image|拍摄的图像
+Hospital|医院
+Update Time|更新时间
+Version|版本
+Department|部门
+Id|序号
+Name|名称
+Hospital|医院
+Update Time|更新时间
+Version|版本
+Doctor Assignment|医生的任务
+Id|序号
+Name|名称
+Doctor|医生
+Department|部门
+Update Time|更新时间
+Version|版本
+Doctor Schedule|医生安排
+Id|序号
+Name|名称
+Doctor|医生
+Schedule Date|安排日期
+Period|期
+Department|部门
+Available|可用
+Price|价格
+Expense Type|费用类型
+Create Time|创建时间
+Update Time|更新时间
+Hospital|医院
+Version|版本
+Mobile App|手机应用程序
+Id|ID
+Name|名称
+Version|版本
+Page|页面
+Id|ID
+Page Title|页面标题
+Link To Url|链接网址
+Page Type|页面类型
+Mobile App|手机应用程序
+Version|版本
+Page Type|页面类型
+Id|ID
+Name|名称
+Code|编码
+Mobile App|手机应用程序
+Footer Tab|页脚选项卡
+Version|版本
+Slide|轮播内容
+Id|ID
+Display Order|顺序
+Name|名称
+Image Url|图片链接
+Video Url|视频网址
+Link To Url|链接网址
+Page|页面
+Version|版本
+Ui Action|用户界面操作
+Id|ID
+Code|编码
+Icon|图标
+Title|标题
+Brief|短暂的
+Image Url|图片链接
+Link To Url|链接网址
+Extra Data|额外的数据
+Page|页面
+Version|版本
+Section|板块
+Id|ID
+Title|标题
+Brief|短暂的
+Icon|图标
+View Group|视图组
+Link To Url|链接网址
+Page|页面
+Version|版本
+User Domain|用户域
+Id|序号
+Name|名称
+Version|版本
+User White List|用户白名单
+Id|序号
+User Identity|用户身份
+User Special Functions|用户特殊功能
+Domain|域
+Version|版本
+Sec User|安全用户
+Id|序号
+Login|登录
+Mobile|手机号码
+Email|电子邮件
+Pwd|密码
+Weixin Openid|微信openid
+Weixin Appid|微信Appid
+Access Token|访问令牌
+Verification Code|验证码
+Verification Code Expire|验证码过期
+Last Login Time|最后登录时间
+Domain|域
+Version|版本
+User App|用户应用程序
+Id|序号
+Title|标题
+Sec User|安全用户
+App Icon|应用程序图标
+Full Access|完全访问
+Permission|许可
+Object Type|访问对象类型
+Object Id|对象ID
+Location|位置
+Version|版本
+Quick Link|快速链接
+Id|序号
+Name|名称
+Icon|图标
+Image Path|图片路径
+Link Target|链接的目标
+Create Time|创建时间
+App|应用程序
+Version|版本
+List Access|访问列表
+Id|序号
+Name|名称
+Internal Name|内部名称
+Read Permission|读权限
+Create Permission|创建权限
+Delete Permission|删除权限
+Update Permission|更新许可
+Execution Permission|执行权限
+App|应用程序
+Version|版本
+Object Access|对象访问
+Id|序号
+Name|名称
+Object Type|访问对象类型
+List1|列表1
+List2|列表2
+List3|列表3
+List4|列表4
+List5|列表5
+List6|列表6
+List7|列表7
+List8|列表8
+List9|列表9
+App|应用程序
+Version|版本
+Login History|登录历史
+Id|序号
+Login Time|登录时间
+From Ip|来自IP
+Description|描述
+Sec User|安全用户
+Version|版本
+Generic Form|通用的形式
+Id|序号
+Title|标题
+Description|描述
+Version|版本
+Form Message|表单信息
+Id|序号
+Title|标题
+Form|形式
+Level|水平
+Version|版本
+Form Field Message|表单字段的信息
+Id|序号
+Title|标题
+Parameter Name|参数名称
+Form|形式
+Level|水平
+Version|版本
+Form Field|表单字段
+Id|序号
+Label|标签
+Locale Key|语言环境的关键
+Parameter Name|参数名称
+Type|类型
+Form|形式
+Placeholder|占位符
+Default Value|默认值
+Description|描述
+Field Group|字段组
+Minimum Value|最小值
+Maximum Value|最大值
+Required|要求
+Disabled|禁用
+Custom Rendering|自定义渲染
+Candidate Values|候选人的价值观
+Suggest Values|建议值
+Version|版本
+Form Action|表单动作
+Id|序号
+Label|标签
+Locale Key|语言环境的关键
+Action Key|行动的关键
+Level|水平
+Url|url
+Form|形式
+Version|版本
+Candidate Container|候选人容器
+Id|序号
+Name|名称
+Version|版本
+Candidate Element|候选人元素
+Id|序号
+Name|名称
+Type|类型
+Image|图片
+Container|容器
+Version|版本
+Wechat Workapp Identify|微信Workapp识别
+Id|ID
+Corp Id|公司标识
+User Id|用户Id
+Sec User|安全用户
+Create Time|创建时间
+Last Login Time|最后登录时间
+Version|版本
+Wechat Miniapp Identify|微信Miniapp识别
+Id|ID
+Open Id|开放Id
+App Id|应用程序Id
+Sec User|安全用户
+Create Time|创建时间
+Last Login Time|最后登录时间
+Version|版本
+Tree Node|树节点
+Id|ID
+Node Id|节点Id
+Node Type|节点类型
+Left Value|左值
+Right Value|正确的价值
+Version|版本
+Transfer to Another Hospital|转移到医院
+Transfer to Another Hospital|转移到医院
+Transfer to Another Expense Type|转移到费用类型
+Transfer to Another Hospital|转移到医院
+Transfer to Another Hospital|转移到医院
+Transfer to Another Hospital|转移到医院
+Transfer to Another Doctor|转移到医生
+Transfer to Another Department|转移到部门
+Transfer to Another Doctor|转移到医生
+Transfer to Another Period|转移到时间
+Transfer to Another Department|转移到部门
+Transfer to Another Expense Type|转移到费用类型
+Transfer to Another Hospital|转移到医院
+Transfer to Another Page Type|转换为页面类型
+Transfer to Another Mobile App|转移到移动App
+Transfer to Another Mobile App|转移到移动App
+Transfer to Another Page|转到页
+Transfer to Another Page|转到页
+Transfer to Another Domain|转移到域
+Transfer to Another Domain|转移到域
+Transfer to Another Sec User|传输给Sec用户
+Transfer to Another App|转移到应用程序
+Transfer to Another App|转移到应用程序
+Transfer to Another App|转移到应用程序
+Transfer to Another Sec User|传输给Sec用户
+Transfer to Another Form|转移到形式
+Transfer to Another Form|转移到形式
+Transfer to Another Form|转移到形式
+Transfer to Another Form|转移到形式
+Transfer to Another Container|转移到容器
+Transfer to Another Sec User|传输给Sec用户
+Transfer to Another Sec User|传输给Sec用户
+
